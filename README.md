@@ -1,4 +1,4 @@
-# Whats App Nat
+# Whats Up Nat
 
 O objetivo é construir uma aplicação web front-end que funcione como um app de mensagens.
 #### Atenção! Este é apenas um MVP. O projeto ainda será adaptado.
